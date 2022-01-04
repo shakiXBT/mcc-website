@@ -5,9 +5,7 @@ categories: investing
 author: shaki
 ---
 
-**Community**
-
-The glue that holds a project together is its community.  Memes, community projects and die-hard believers are all good signs of a strong community. 
+The glue that holds a project together is its community. Memes, community projects and die-hard believers are all good signs of a strong community. 
 
 This is especially important for projects that have “no intrinsic value” and are mostly fueled about speculation, like NFT pfp collections or meme coins. Having a strong community is a value of itself, and it also means a big percentage of the supply is basically locked forever, held by people that will never sell.
 
