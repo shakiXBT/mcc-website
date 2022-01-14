@@ -23,6 +23,4 @@ Middle Class Capital is a group of people investing in DeFi, NFTs and crypto pro
 [<img src="{{ site.baseurl }}/images/avatars/target.jpg" alt="target" style="width: 200px;border-radius: 50%;padding: 10px;"/>](https://twitter.com/Target_Sir)
 [<img src="{{ site.baseurl }}/images/avatars/shea.jpg" alt="shea" style="width: 200px;border-radius: 50%;padding: 10px;"/>](https://twitter.com/SheaCrypto)
 [<img src="{{ site.baseurl }}/images/avatars/noise.jpg" alt="noise" style="width: 200px;border-radius: 50%;padding: 10px;"/>](https://twitter.com/trading_noise)
-[<img src="{{ site.baseurl }}/images/avatars/charlie.jpg" alt="charlie" style="width: 200px;border-radius: 50%;padding: 10px;"/>](https://twitter.com/btc_charlie)
 [<img src="{{ site.baseurl }}/images/avatars/obiwan.jpg" alt="obiwan" style="width: 200px;border-radius: 50%;padding: 10px;"/>](https://twitter.com/crypt0biwan)
-
